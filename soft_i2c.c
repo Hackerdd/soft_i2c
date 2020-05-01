@@ -1,7 +1,4 @@
 /***
-	Copyright (c) 2020
-	All rights reserved.
-
 	File name           :soft_i2c.c
 	file identification :
 	Subject             :Say something about the file

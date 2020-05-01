@@ -1,10 +1,7 @@
 /***
-    Copyright (c) 2020
-    All rights reserved.
-
     File name           :soft_i2c.h
     file identification :
-    Subject             :`
+    Subject             :
 
     Current Version     :V1.0.0
     Author              :Hacker
